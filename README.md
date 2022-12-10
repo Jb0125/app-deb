@@ -7,8 +7,8 @@ My first app dev
 *italicized text*
 > blockquote
 1. Black Panther
-2. Encanto
-3. Coco
+2. Thor
+3. Wanda
 - Captain America
 - Hawk Eye
 - Hulk
